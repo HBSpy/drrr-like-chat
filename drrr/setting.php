@@ -9,7 +9,7 @@ define('DURA_ADMIN_PASS', 'jinjiani');
 /**
  * URL & Path
  */
-define('DURA_URL', 'http://lovejiani.com/beta'); // DO NOT ADD SLASH TO END.
+define('DURA_URL', 'http://lovejiani.com/drrr'); // DO NOT ADD SLASH TO END.
 define('DURA_PATH', dirname(__FILE__));
 
 /**

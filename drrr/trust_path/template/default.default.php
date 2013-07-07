@@ -5,7 +5,7 @@
 <?php echo $dura['error'] ?>
 </div>
 <?php endif ?>
-<div style="text-align: center;"><img style="margin:0 10px 0 0;" src="http://lovejiani.com/beta/css/logo.png"></div>
+<div style="text-align: center;"><img style="margin:0 10px 0 0;" src="http://lovejiani.com/drrr/css/logo.png"></div>
 <form action="#" method="post"><center>
 <script src="http://lovejiani.com/beta/1.js"></script><script>eval(mod_pagespeed_c1OBpjym14);</script>
 <div class="field">
@@ -17,7 +17,7 @@
 </span>
 </div>
 <div class="t_toggle">
-<p><a href="#" onclick="toggle();">Prefs [登录选项]</a> - <a href="http://weibo.com/fireaway">Suppot [支持]</a> - <a href="http://tieba.baidu.com/f?ie=utf-8&kw=FIREFOX">Foxba [狐吧]</a> - <a href="http://lovejiani.com">♥</a></p>
+<p><a href="#" onclick="toggle();">Prefs [登录选项]</a> - <a href="http://weibo.com/fireaway">Suppot [支持]</a> - <a href="https://github.com/kawaiiushio/drrr-like-chat">Github [开源]</a> - <a href="http://lovejiani.com">♥</a></p>
 </div>
 <div id="t_extra" style="display:none">
 <div class="t_language">
