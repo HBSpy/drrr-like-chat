@@ -5,7 +5,7 @@
 <title><?php e(t(DURA_TITLE)) ?> - <?php e(t(DURA_SUBTITLE)) ?></title>
 <meta name="keywords" content="关键字" />
 <meta name="description" content="描述" />
-<link rel="shortcut icon" href="./favicon.ico">
+<link rel="shortcut icon" href="http://lovejiani.com/drrr/favicon.ico">
 <link href="<?php echo DURA_URL; ?>/css/style.css" rel="stylesheet" type="text/css" media="screen" />
 <script type="text/javascript" src="<?php e(DURA_URL) ?>/js/jquery.min.js"></script>
 <script type="text/javascript" src="<?php e(DURA_URL) ?>/js/jquery-ui.min.js"></script>

@@ -3,13 +3,13 @@
 /**
  * Admin
  */
-define('DURA_ADMIN_NAME', 'admin');
-define('DURA_ADMIN_PASS', 'jinjiani');
+define('DURA_ADMIN_NAME', 'admin'); // 初始管理员账号密码
+define('DURA_ADMIN_PASS', 'admin');
 
 /**
  * URL & Path
  */
-define('DURA_URL', 'http://lovejiani.com/drrr'); // DO NOT ADD SLASH TO END.
+define('DURA_URL', 'http://请修改URL 最后不要加斜杠'); // DO NOT ADD SLASH TO END.
 define('DURA_PATH', dirname(__FILE__));
 
 /**
