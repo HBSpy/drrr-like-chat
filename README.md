@@ -37,6 +37,8 @@ define('DURA_ROOM_LIMIT', 10); 最大房间数
 define('DURA_SITE_USER_CAPACITY', 150); 最大总人数
 等。
 
+不能创建房间的 trust_path下新建一个名为xml的文件夹 权限777 （bae sae可以省略权限）即可
+
 生活愉快~
 
 Crow
