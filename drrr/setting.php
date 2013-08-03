@@ -4,12 +4,12 @@
  * Admin
  */
 define('DURA_ADMIN_NAME', 'admin');
-define('DURA_ADMIN_PASS', 'admin');
+define('DURA_ADMIN_PASS', 'missjiani');
 
 /**
  * URL & Path
  */
-define('DURA_URL', 'http://请输入你的URL 结尾不要斜杠'); // DO NOT ADD SLASH TO END.
+define('DURA_URL', 'http://lovejiani.com/drrr'); // DO NOT ADD SLASH TO END.
 define('DURA_PATH', dirname(__FILE__));
 
 /**
@@ -29,9 +29,9 @@ define('DURA_USE_REWRITE', false);
  */
 define('DURA_LOG_LIMIT', 25);
 define('DURA_TIMEOUT', 300); // 5 mins
-define('DURA_USER_MIN', 3);
+define('DURA_USER_MIN', 40);
 define('DURA_USER_MAX', 50);
-define('DURA_ROOM_LIMIT', 30);
+define('DURA_ROOM_LIMIT', 10);
 define('DURA_SITE_USER_CAPACITY', 150);
 define('DURA_CHAT_ROOM_EXPIRE', 1800); // 30 mins
 define('DURA_MESSAGE_MAX_LENGTH', 79);

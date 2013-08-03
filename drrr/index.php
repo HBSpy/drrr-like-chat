@@ -1,4 +1,4 @@
-<body style="margin-top: -10px"><?php
+<?php
 /**
  * A simple description for this script
  *
