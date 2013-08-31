@@ -18,7 +18,7 @@
 </div>
 
 <div class="t_toggle">
-<p><font style="font-size:12px;"><a href="#" onclick="toggle();">Prefs [登录选项]</a> - <a href="http://weibo.com/fireaway">Suppot [支持]</a> - <a href="https://github.com/kawaiiushio/drrr-like-chat">Github [开源]</a> - <a href="http://lovejiani.com">♥</a></font></p>
+  <p><font style="font-size:12px;"><a href="#" onclick="toggle();">Prefs [登录选项]</a> - <a href="http://drrr.cf/offline">Offline [离线讨论]</a> - <a href="http://lovejiani.com/blog/dollars">About [关于]</a> - <a href="http://lovejiani.com">♥</a></font></p>
 </div>
 <div id="t_extra" style="display:none">
 <div class="t_language">
