@@ -499,7 +499,6 @@ border-radius:7px;
 -webkit-border-radius:7px;
 -moz-border-radius:7px;
 font-family:UbuntuMonoBold,'Microsoft YaHei';
-margin:40px 0 25px 3px;
 padding:1px;
 }
 
@@ -508,7 +507,6 @@ text-transform: uppercase;
 font-weight: bold;
 font-size: 14px;
 padding: 0;
-margin: 0;
 }
 
 #login .footer,#logingo .footer {

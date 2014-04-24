@@ -3,13 +3,13 @@
 /**
  * Admin
  */
-define('DURA_ADMIN_NAME', 'admin');
-define('DURA_ADMIN_PASS', 'admin');
+define('DURA_ADMIN_NAME', 'HBSpy');
+define('DURA_ADMIN_PASS', '3cc54324cdfa');
 
 /**
  * URL & Path
  */
-define('DURA_URL', 'http://drrr.cf'); // DO NOT ADD SLASH TO END.
+define('DURA_URL', 'http://10.3.18.184/drrr-like-chat/drrr'); // DO NOT ADD SLASH TO END.
 define('DURA_PATH', dirname(__FILE__));
 
 /**
@@ -22,7 +22,7 @@ define('DURA_TEMPLATE_PATH', DURA_TRUST_PATH.'/template');
 /**
  * If use mod_rewrite, set true.
  */
-define('DURA_USE_REWRITE', false);
+define('DURA_USE_REWRITE', true);
 
 /**
  * Chat room settings
@@ -30,9 +30,9 @@ define('DURA_USE_REWRITE', false);
 define('DURA_LOG_LIMIT', 25);
 define('DURA_TIMEOUT', 300); // 5 mins
 define('DURA_USER_MIN', 40);
-define('DURA_USER_MAX', 50);
-define('DURA_ROOM_LIMIT', 10);
-define('DURA_SITE_USER_CAPACITY', 150);
+define('DURA_USER_MAX', 1000);
+define('DURA_ROOM_LIMIT', 20);
+define('DURA_SITE_USER_CAPACITY', 10000);
 define('DURA_CHAT_ROOM_EXPIRE', 1800); // 30 mins
 define('DURA_MESSAGE_MAX_LENGTH', 79);
 
@@ -44,8 +44,8 @@ define('DURA_LANGUAGE', 'zh-CN');
 /**
  * Title settings
  */
-define('DURA_TITLE', 'Durarara like chat room');
-define('DURA_SUBTITLE', 'Durarara fan community');
+define('DURA_TITLE', 'BYRBT');
+define('DURA_SUBTITLE', 'Let\'s Chaaat!');
 
 /**
  * Session name
